@@ -1,5 +1,5 @@
 {
-    "api_url": "http://localhost:8080/java_web/tskpi",
+    "api_url": "http://localhost:8888/java_web/tskpi",
     "api_url_dev": "http://localhost:8888/tskpi-dev",
     "api_key_url": "/assets/Api_KeyV2.rar",
     "report_url": "https://script.google.com/macros/s/AKfycby4A4pbXamMwLGa0SGiyxKqv0OFKXEQ5Q0x5VxsNUMKR9XG_A8/exec",
